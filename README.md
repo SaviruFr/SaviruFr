@@ -1,5 +1,5 @@
-<h1> align="center">Hi 👋, I'm Saviru</h1>
-<h3> align="center">I am a passionate pentester from Sri Lanka.</h3>
+<h1 align="center">Hi 👋, I'm Saviru</h1>
+<h3 align="center">I am a passionate pentester from Sri Lanka.</h3>
 <br>-🔭 Currently, I am not working on any projects. 😞<br><br>-🌱 I am currently learning Ruby<br><br>-💬 Feel free to ask me about Linux, HTML, CSS, JS or Python.<br>
 
 
