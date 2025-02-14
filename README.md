@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>🦢 Currently learning GraphQL<br>⚡ Goals: Building scalable systems<br>🌸 Fun fact: I love solving simple problems with complex solutions</p>
+<h4 align="left">✨ Creating bugs since 2020<br>🦢 Currently learning GraphQL<br>⚡ Goals: Building scalable systems<br>🌸 Fun fact: I love solving simple problems with complex solutions</p>
 
 ###
 
